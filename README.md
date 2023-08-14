@@ -28,3 +28,11 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 
 ## Como Contribuir
 
+Para contribuir para esse repositório, siga os passos abaixo:
+
+1. Faça um fork desse repositório
+2. Crie uma branch com a sua feature: `git checkout -b minha-feature`
+3. Commit suas mudanças: `git commit -m 'feat: Minha nova feature'`
+4. Faça um push para sua branch: `git push origin minha-feature`
+5. Crie um pull request
+6. Aguarde aprovação ou sugestões
