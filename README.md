@@ -1,6 +1,7 @@
 # 100-dias-de-codigo
 
 Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo #100DaysOfCode. 
+
 ----
 * [Sobre o Desafio](#sobre-o-desafio)
 * [Participantes atuais](#participantes-atuais)
@@ -21,8 +22,8 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 
 | Nome        | GitHub                                        | Data de Inicio | Tópicos abordados     | Redes Sociais                                                                                                                              | Tweets do Desafio                                                                                               |
 |-------------|-----------------------------------------------|----------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| Daniel Reis | [danielhe4rt](https://github.com/danielhe4rt) | 2023-08-14     | Banco de Dados, Rust. | [Twitter](https://twitter.com/danielhe4rt)  [Instagram](https://instagram.com/danielhe4rt) [LinkedIn](https://linkedin.com/in/danielheart) | [Clique Aqui](https://twitter.com/search?q=(from:danielhe4rt)+(#100diasdecodigo)&src=typed_query&f=live) |
-| Cherry Ramatis | [cherryramatisdev](https://github.com/cherryramatisdev) | 2023-06-06     | Ruby, Elm, Arquitetura. | [Twitter](https://twitter.com/cherry_ramatis)  [Instagram](https://instagram.com/cherry.ramatis) [LinkedIn](https://linkedin.com/in/cherryramatis) | [Clique Aqui](https://twitter.com/search?q=(from:cherryramatisdev)+(#100diasdecodigo)&src=typed_query&f=live) |
+| Daniel Reis | [danielhe4rt](https://github.com/danielhe4rt) | 2023-08-14     | Banco de Dados, Rust. | [Twitter](https://twitter.com/danielhe4rt)  [Instagram](https://instagram.com/danielhe4rt) [LinkedIn](https://linkedin.com/in/danielheart) | [Clique Aqui](https://twitter.com/search?q=(from:danielhe4rt)+(%23100diasdecodigo)&src=typed_query&f=live) |
+| Cherry Ramatis | [cherryramatisdev](https://github.com/cherryramatisdev) | 2023-06-06     | Ruby, Elm, Arquitetura. | [Twitter](https://twitter.com/cherry_ramatis)  [Instagram](https://instagram.com/cherry.ramatis) [LinkedIn](https://linkedin.com/in/cherryramatis) | [Clique Aqui](https://twitter.com/search?q=(from:cherryramatisdev)+(%23100diasdecodigo)&src=typed_query&f=live) |
 |             |                                               |                |                       |                                                                                                                                            |                                                                                                                 |
 
 ## Participantes que completaram o desafio
