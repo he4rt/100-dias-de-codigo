@@ -1,6 +1,7 @@
 # 100-dias-de-codigo
 
 Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo #100DaysOfCode. 
+
 ----
 * [Sobre o Desafio](#sobre-o-desafio)
 * [Participantes atuais](#participantes-atuais)
