@@ -2,10 +2,10 @@
 
 Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo #100DaysOfCode. 
 ----
-* [Sobre o Desafio](#)
-* [Participantes atuais](#)
-* [Participantes Que completaram o Desafio](#)
-* [Como Contribuir](#)
+* [Sobre o Desafio](#sobre-o-desafio)
+* [Participantes atuais](#participantes-atuais)
+* [Participantes Que completaram o Desafio](#participantes-que-completaram-o-desafio)
+* [Como Contribuir](#como-contribuir)
 
 ## Sobre o Desafio
 
