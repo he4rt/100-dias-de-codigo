@@ -1,12 +1,13 @@
 # 100-dias-de-codigo
 
-Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo #100DaysOfCode. 
+Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo #100DaysOfCode.
 
-----
-  - [Sobre o Desafio](#sobre-o-desafio)
-  - [Participantes Atuais](#participantes-atuais)
-  - [Participantes que Completaram o Desafio](#participantes-que-completaram-o-desafio)
-  - [Como Contribuir](#como-contribuir)
+---
+
+- [Sobre o Desafio](#sobre-o-desafio)
+- [Participantes Atuais](#participantes-atuais)
+- [Participantes que Completaram o Desafio](#participantes-que-completaram-o-desafio)
+- [Como Contribuir](#como-contribuir)
 
 ## Sobre o Desafio
 
@@ -20,12 +21,13 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 
 > Lembre-se de colocar seu username do Twitter corretamente na aba "tweets do desafio" trocando o (from:danielhe4rt) pra (from:seu_username).
 
-| Nome        | GitHub                                        | Data de Inicio | Tópicos abordados     | Redes Sociais                                                                                                                              | Tweets do Desafio                                                                                               |
-|-------------|-----------------------------------------------|----------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| Daniel Reis | [danielhe4rt](https://github.com/danielhe4rt) | 2023-08-14     | Banco de Dados, Rust. | [Twitter](https://twitter.com/danielhe4rt)  [Instagram](https://instagram.com/danielhe4rt) [LinkedIn](https://linkedin.com/in/danielheart) | [Clique Aqui](https://twitter.com/search?q=(from:danielhe4rt)+(%23100diasdecodigo)&src=typed_query&f=live) |
-| Cherry Ramatis | [cherryramatisdev](https://github.com/cherryramatisdev) | 2023-06-06     | Ruby, Elm, Arquitetura. | [Twitter](https://twitter.com/cherry_ramatis)  [Instagram](https://instagram.com/cherry.ramatis) [LinkedIn](https://linkedin.com/in/cherryramatis) | [Clique Aqui](https://twitter.com/search?q=(from:cherry_ramatis)+(%23100diasdecodigo)&src=typed_query&f=live) | 
- Marlon Sanches | [marlonhenq](https://github.com/MarlonHenq) | 2023-08-14     | Hardware e Desenvolvimento Web | [Twitter](https://twitter.com/MarlonHenq)  [Instagram](https://www.instagram.com/marlonhenq/) [LinkedIn](https://www.linkedin.com/in/marlonhenq/) | [Clique Aqui](https://twitter.com/MarlonHenq/status/1691180854607773696) |
-|             |                                               |                |                       |                                                                                                                                            |                                                                                                                 |
+| Nome            | GitHub                                                  | Data de Inicio | Tópicos abordados              | Redes Sociais                                                                                                                                                    | Tweets do Desafio                                                                                               |
+| --------------- | ------------------------------------------------------- | -------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Daniel Reis     | [danielhe4rt](https://github.com/danielhe4rt)           | 2023-08-14     | Banco de Dados, Rust.          | [Twitter](https://twitter.com/danielhe4rt) [Instagram](https://instagram.com/danielhe4rt) [LinkedIn](https://linkedin.com/in/danielheart)                        | [Clique Aqui](<https://twitter.com/search?q=(from:danielhe4rt)+(%23100diasdecodigo)&src=typed_query&f=live>)    |
+| Cherry Ramatis  | [cherryramatisdev](https://github.com/cherryramatisdev) | 2023-06-06     | Ruby, Elm, Arquitetura.        | [Twitter](https://twitter.com/cherry_ramatis) [Instagram](https://instagram.com/cherry.ramatis) [LinkedIn](https://linkedin.com/in/cherryramatis)                | [Clique Aqui](<https://twitter.com/search?q=(from:cherry_ramatis)+(%23100diasdecodigo)&src=typed_query&f=live>) |
+| Marlon Sanches  | [marlonhenq](https://github.com/MarlonHenq)             | 2023-08-14     | Hardware e Desenvolvimento Web | [Twitter](https://twitter.com/MarlonHenq) [Instagram](https://www.instagram.com/marlonhenq/) [LinkedIn](https://www.linkedin.com/in/marlonhenq/)                 | [Clique Aqui](https://twitter.com/MarlonHenq/status/1691180854607773696)                                        |
+| Matheus Emanoel | [OrionTH1](https://github.com/OrionTH1)                 | 2023-08-14     | Full-Stack, JS/TS, React, Node | [Twitter](https://twitter.com/OrionTH1) [Instagram](https://www.instagram.com/matheusemanoeloficial/) [LinkedIn](https://www.linkedin.com/in/matheusemanoeldev/) | [Clique Aqui](<https://twitter.com/search?q=(from:OrionTH1)+(%23100diasdecodigo)&src=typed_query&f=live>)       |
+|                 |                                                         |                |                                |                                                                                                                                                                  |                                                                                                                 |
 
 ## Participantes que completaram o desafio
 
