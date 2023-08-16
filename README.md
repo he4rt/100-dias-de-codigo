@@ -4,10 +4,11 @@ Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo 
 
 ---
 
-- [Sobre o Desafio](#sobre-o-desafio)
-- [Participantes Atuais](#participantes-atuais)
-- [Participantes que Completaram o Desafio](#participantes-que-completaram-o-desafio)
-- [Como Contribuir](#como-contribuir)
+- [100-dias-de-codigo](#100-dias-de-codigo)
+  - [Sobre o Desafio](#sobre-o-desafio)
+  - [Participantes Atuais](#participantes-atuais)
+  - [Participantes que completaram o desafio](#participantes-que-completaram-o-desafio)
+  - [Como Contribuir](#como-contribuir)
 
 ## Sobre o Desafio
 
@@ -37,6 +38,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | Yan Sardinha   | [yansardinha](https://github.com/YanSardinha)     | 2023-08-14     | Python, API's, Data Science     | [Twitter](https://twitter.com/YanSardinha2) [Instagram](https://www.instagram.com/yansardinhaa)  [LinkedIn](https://www.linkedin.com/in/yan-sardinha/)       | [Clique Aqui](https://twitter.com/search?q=(%23100DiasDeCodigo)%20(from%3Ayansardinha2)&src=typed_query)                                  |                 |                                                         |                |                                |                                                                                               
 | Alan Alb.  | [offpepe](https://github.com/offpepe)     | 2023-08-15     | DB, Haskell, Elixir, Zig, Crystal     | [Twitter](https://twitter.com/Offplayer_G) [Instagram](https://www.instagram.com/alanalbuquerq/)  [LinkedIn](https://www.linkedin.com/in/alanalbuquerq/)       | [Clique Aqui](https://twitter.com/Offplayer_G/status/1691554189984268647)                                  |                                                                   |                                                                                                                 |                                                                                                     |
 |                 |                                                         |                |                                |                                                                                               
+| Bruno Fernandes   | [brunofndes](https://github.com/brunofndes)     | 2023-08-15     | Java, Spring, Banco de Dados      | [Twitter](https://twitter.com/djangouncheind) [Instagram](https://www.instagram.com/brunofndes/)  [LinkedIn](https://www.linkedin.com/in/brunofndes/)       | [Clique Aqui](https://twitter.com/search?q=(%23100DiasDeCodigo)%20(from%3Adjangouncheind)&src=typed_query&f=top)                                  |                 |                                                         |                |                                |                                                                                               
 ## Participantes que completaram o desafio
 
 ## Como Contribuir
