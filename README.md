@@ -46,6 +46,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | Diego Corredeira    | [diegocorredeira](https://github.com/diegocorredeira)           | 2023-08-14     | Python, Banco de dados, Javascript               | [Twitter](https://twitter.com/ghostfacedabxd) [Instagram](https://instagram.com/diegocorredeira)                         | [Clique Aqui](<https://twitter.com/search?q=(from%3Aghostfacedabxd)%20(%23100diasdecodigo)&src=typed_query&f=live>)    |
 | Gustavo Herold 'zuko' | [zukohe4rt](https://github.com/zukohe4rt)         | 2023-08-14     | Java, C#, Banco de Dados | [Twitter](https://twitter.com/zukohe4rt) [Instagram](https://www.instagram.com/gu.herold/)  [LinkedIn](https://www.linkedin.com/in/gustavo-herold-bender/)          | [Clique Aqui](https://twitter.com/search?q=(from%3Azukohe4rt)%20(%23100diasdecodigo)&src=typed_query&f=live)                                  |
 | Fábio Barbosa | [orbtz](https://github.com/orbtz) | 2023-08-20 | C#, Godot Engine | [Twitter](https://twitter.com/faiorb) [Instagram](https://www.instagram.com/fab.r.b/) | [Clique Aqui](https://twitter.com/faiorb/status/1693429507980439735)
+| Guilherme Fabricio | [orbtz](https://github.com/GuiDev115) | 2023-08-20 | C#, Godot Engine | [Twitter](https://twitter.com/guidev115) [Instagram](https://www.instagram.com/gui.fabricio/) | [Clique Aqui](https://twitter.com/guidev115/status/1693673186523595136)
 
 ## Participantes que completaram o desafio
 
