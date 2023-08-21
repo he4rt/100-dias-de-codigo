@@ -47,6 +47,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | Gustavo Herold 'zuko' | [zukohe4rt](https://github.com/zukohe4rt)         | 2023-08-14     | Java, C#, Banco de Dados | [Twitter](https://twitter.com/zukohe4rt) [Instagram](https://www.instagram.com/gu.herold/)  [LinkedIn](https://www.linkedin.com/in/gustavo-herold-bender/)          | [Clique Aqui](https://twitter.com/search?q=(from%3Azukohe4rt)%20(%23100diasdecodigo)&src=typed_query&f=live)                                  |
 | Fábio Barbosa | [orbtz](https://github.com/orbtz) | 2023-08-20 | C#, Godot Engine | [Twitter](https://twitter.com/faiorb) [Instagram](https://www.instagram.com/fab.r.b/) | [Clique Aqui](https://twitter.com/faiorb/status/1693429507980439735)
 | Guilherme Fabricio | [gui.dev](https://github.com/GuiDev115) | 2023-08-21 | Php, C++, MySql, JavaScrpit | [Twitter](https://twitter.com/guidev115) [Instagram](https://www.instagram.com/gui.fabricio/) [LinkedIn](https://www.linkedin.com/in/guilhermeefabricio/) [Dev Community](https://dev.to/guidev115) | [Clique Aqui](https://twitter.com/guidev115/status/1693673186523595136) | 
+| Gustavo Dantas | [dantas15](https://github.com/dantas15) | 2023-08-21 | Full Stack, JavaScript, Typescript | [Twitter](https://twitter.com/gusdantas) [Instagram](https://www.instagram.com/gustavo.galote/) [LinkedIn](https://www.linkedin.com/in/gustavo-dantas-galote/) | [Clique Aqui](https://twitter.com/search?q=(from%3Agusdantas)%20(%23100DiasDeCodigo)&src=typed_query&f=live)
 
 ## Participantes que completaram o desafio
 
