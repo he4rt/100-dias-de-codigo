@@ -54,7 +54,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 
  Posição | Nome                                                  | Data de Inicio  | Data do Fim    | Stack                                |  Procurando Emprego? | Redes Sociais                                                                                                                                                    | Postagem do 100º Dia |
 |--------|---------------------------------------------------------|----------------|----------------|--------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-|   01º  | Renan Vidal 'Renanzin' | 14/03/2023 | 21/06/2023 | Front-end, React, HTML, CSS, JavaScript, Typescript | Sim |  Front-end & React | [Twitter](https://twitter.com/RenanInsane) [Instagram](https://www.instagram.com/renan.vrodrigues/) [LinkedIn](https://www.linkedin.com/in/renanvrodrigues/) | [Clique Aqui](<https://twitter.com/RenanInsane/status/1671626662683762688>)
+|   01º  | Renan Vidal 'Renanzin' | 14/03/2023 | 21/06/2023 | Front-end && React  | Sim | [Twitter](https://twitter.com/RenanInsane) [Instagram](https://www.instagram.com/renan.vrodrigues/) [LinkedIn](https://www.linkedin.com/in/renanvrodrigues/) | [Clique Aqui](<https://twitter.com/RenanInsane/status/1671626662683762688>)
 
 ## Como Contribuir
 
