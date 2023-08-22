@@ -48,6 +48,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | Fábio Barbosa | [orbtz](https://github.com/orbtz) | 2023-08-20 | C#, Godot Engine | [Twitter](https://twitter.com/faiorb) [Instagram](https://www.instagram.com/fab.r.b/) | [Clique Aqui](https://twitter.com/faiorb/status/1693429507980439735)
 | Guilherme Fabricio | [gui.dev](https://github.com/GuiDev115) | 2023-08-21 | Php, C++, MySql, JavaScrpit | [Twitter](https://twitter.com/guidev115) [Instagram](https://www.instagram.com/gui.fabricio/) [LinkedIn](https://www.linkedin.com/in/guilhermeefabricio/) [Dev Community](https://dev.to/guidev115) | [Clique Aqui](https://twitter.com/guidev115/status/1693673186523595136) | 
 | Gustavo Dantas | [dantas15](https://github.com/dantas15) | 2023-08-21 | Full Stack, JavaScript, Typescript | [Twitter](https://twitter.com/gusdantas) [Instagram](https://www.instagram.com/gustavo.galote/) [LinkedIn](https://www.linkedin.com/in/gustavo-dantas-galote/) | [Clique Aqui](https://twitter.com/search?q=(from%3Agusdantas)%20(%23100DiasDeCodigo)&src=typed_query&f=live)
+| Renan Vidal 'Renanzin' | [RenanVidal](https://github.com/RenanVidal) | 2023-08-17 | Front-end, React, HTML, CSS, JavaScript, Typescript | [Twitter](https://twitter.com/RenanInsane) [Instagram](https://www.instagram.com/renan.vrodrigues/) [LinkedIn](https://www.linkedin.com/in/renanvrodrigues/) | [Clique Aqui](<https://twitter.com/search?q=(from:RenanInsane)+(%23100diasdecodigo)&src=typed_query&f=live>)
 
 ## Participantes que completaram o desafio
 
