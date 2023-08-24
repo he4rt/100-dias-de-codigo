@@ -51,6 +51,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | Renan Vidal 'Renanzin' | [RenanVidal](https://github.com/RenanVidal) | 2023-08-17 | Front-end, React, HTML, CSS, JavaScript, Typescript | [Twitter](https://twitter.com/RenanInsane) [Instagram](https://www.instagram.com/renan.vrodrigues/) [LinkedIn](https://www.linkedin.com/in/renanvrodrigues/) | [Clique Aqui](<https://twitter.com/search?q=(from:RenanInsane)+(%23100diasdecodigo)&src=typed_query&f=live>)
 | Victor Wildner | [vcwild](https://github.com/vcwild) | 2023-08-13 | Design patterns, Mobile Development, Flutter, Dart, Swift | [Twitter](https://twitter.com/vcwild) [Linktree](https://linktr.ee/vcwild) [LinkedIn](https://www.linkedin.com/in/vcwild/) | [Clique Aqui](<https://twitter.com/search?q=(from:vcwild)+(%23100diasdecodigo)&src=typed_query&f=live>)
 | Felipe Ribeiro | [feliperfdev](https://github.com/feliperfdev) | 2023-08-23 | Design patterns, Mobile Development, Flutter, Dart, Docker | [Twitter](https://twitter.com/feliper_dev) [LinkedIn](https://www.linkedin.com/in/feliperdev/) | [Clique Aqui](<https://twitter.com/search?q=(from:feliper_dev)+(%23100diasdecodigo)&src=typed_query&f=live>)
+| Vinicius Enari | [viniciusenari](https://github.com/viniciusenari) | 2023-08-14 | Java, Spring, Python, Godot | [Twitter](https://twitter.com/7vikken) [LinkedIn](https://www.linkedin.com/in/vinicius-enari/) | [Clique Aqui](<https://twitter.com/search?q=(from:7vikken)+(%23100diasdecodigo)&src=typed_query&f=live>)
 
 ## Participantes que completaram o desafio
 
