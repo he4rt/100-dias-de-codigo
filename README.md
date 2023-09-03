@@ -5,10 +5,10 @@ Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo 
 
 ---
 
-- [Sobre o Desafio](#sobre-o-desafio)
-- [Participantes Atuais](#participantes-atuais)
-- [Participantes que Completaram o Desafio](#participantes-que-completaram-o-desafio)
-- [Como Contribuir](#como-contribuir)
+  - [Sobre o Desafio](#sobre-o-desafio)
+  - [Participantes Atuais](#participantes-atuais)
+  - [Participantes que completaram o desafio](#participantes-que-completaram-o-desafio)
+  - [Como Contribuir](#como-contribuir)
 
 ## Sobre o Desafio
 
@@ -21,7 +21,6 @@ Saiba mais sobre o desafio em [100DiasDeCodigo.dev](https://100diasdecodigo.dev)
 Lista de informações relevantes sobre os participantes que se comprometeram no desafio:
 
 > Lembre-se de colocar seu username do Twitter corretamente na aba "tweets do desafio" trocando o (from:danielhe4rt) pra (from:seu_username).
-
 
 | Nome            | GitHub                                                  | Data de Inicio | Tópicos abordados                    | Redes Sociais                                                                                                                                                    | Tweets do Desafio                                                                                               |
 |-----------------|---------------------------------------------------------|----------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +54,9 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | Vinicius Enari | [viniciusenari](https://github.com/viniciusenari) | 2023-08-14 | Java, Spring, Python, Godot | [Twitter](https://twitter.com/7vikken) [LinkedIn](https://www.linkedin.com/in/vinicius-enari/) | [Clique Aqui](<https://twitter.com/search?q=(from:7vikken)+(%23100diasdecodigo)&src=typed_query&f=live>)
 | Jonathan Santos da Silva | [jowjow22](https://github.com/jowjow22)                 | 2023-08-25     | Front-end, Vue, React, Next, Typescript, Node, Design Patterns, C# | [Twitter](https://twitter.com/jowjow223) [Instagram](https://www.instagram.com/jow.tsx/) [LinkedIn](https://www.linkedin.com/in/jonathan-santos-453a641b4/) [Dev Community](https://dev.to/jow)                                                                                                             | [Clique Aqui](<https://twitter.com/search?q=(from:jowjow223)+(%23100diasdecodigo)&src=typed_query&f=live>)          |
 | André Paiva 'And'/'Xornotor' | [Xornotor](https://github.com/Xornotor)                 | 2023-08-25     | Python, Data Science, Deep Learning, Tensorflow, Microcontroladores | [Twitter](https://twitter.com/xornotor) [LinkedIn](https://www.linkedin.com/in/andpaiva/)                                                                                                           | [Clique Aqui](<https://twitter.com/search?q=(from:xornotor)+(%23100diasdecodigo)&src=typed_query&f=live>)          | 
-| Mateus Vasconcelos 'Moov' | [Moov](https://github.com/mateusmoov)                 | 2023-08-14     | React, Typescript, Next, PostgreSQL, Node, Express | [Twitter](https://twitter.com/moovhe4rt) [LinkedIn](https://www.linkedin.com/in/mateusmoov/) [Instagram](https://www.instagram.com/moovhe4rt/)                                                                                                           | [Clique Aqui](<https://twitter.com/search?q=(from:moovhe4rt)+(%23100diasdecodigo)&src=typed_query&f=live>)  
+| Mateus Vasconcelos 'Moov' | [Moov](https://github.com/mateusmoov)                 | 2023-08-14     | React, Typescript, Next, PostgreSQL, Node, Express | [Twitter](https://twitter.com/moovhe4rt) [LinkedIn](https://www.linkedin.com/in/mateusmoov/) [Instagram](https://www.instagram.com/moovhe4rt/)                                                                                                           | [Clique Aqui](<https://twitter.com/search?q=(from:moovhe4rt)+(%23100diasdecodigo)&src=typed_query&f=live>)  |
+| Pedro Henrique         | [Phses](https://github.com/Phses)                       | 2023-08-14     | C#, .NET e Banco de Dados                                   | [Twitter](https://twitter.com/Phsouzaesilva) [Instagram](https://www.instagram.com/)  [LinkedIn](https://www.linkedin.com/in/pedro-henrique-souza-e-silva-1aa51115a/)                                                    | [Clique Aqui](https://twitter.com/search?q=(from%3APhsouzaesilva)%20(%23100diasdecodigo)&src=typed_query&f=live)    |
+
 ## Participantes que completaram o desafio
 
  Posição | Nome                                                  | Data de Inicio  | Data do Fim    | Stack                                |  Procurando Emprego? | Redes Sociais                                                                                                                                                    | Postagem do 100º Dia |
