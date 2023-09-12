@@ -5,6 +5,7 @@ Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo 
 
 ---
 
+- [100-dias-de-codigo](#100-dias-de-codigo)
   - [Sobre o Desafio](#sobre-o-desafio)
   - [Participantes Atuais](#participantes-atuais)
   - [Participantes que completaram o desafio](#participantes-que-completaram-o-desafio)
@@ -56,6 +57,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | André Paiva 'And'/'Xornotor' | [Xornotor](https://github.com/Xornotor)                 | 2023-08-25     | Python, Data Science, Deep Learning, Tensorflow, Microcontroladores | [Twitter](https://twitter.com/xornotor) [LinkedIn](https://www.linkedin.com/in/andpaiva/)                                                                                                           | [Clique Aqui](<https://twitter.com/search?q=(from:xornotor)+(%23100diasdecodigo)&src=typed_query&f=live>)          | 
 | Mateus Vasconcelos 'Moov' | [Moov](https://github.com/mateusmoov)                 | 2023-08-14     | React, Typescript, Next, PostgreSQL, Node, Express | [Twitter](https://twitter.com/moovhe4rt) [LinkedIn](https://www.linkedin.com/in/mateusmoov/) [Instagram](https://www.instagram.com/moovhe4rt/)                                                                                                           | [Clique Aqui](<https://twitter.com/search?q=(from:moovhe4rt)+(%23100diasdecodigo)&src=typed_query&f=live>)  |
 | Pedro Henrique         | [Phses](https://github.com/Phses)                       | 2023-08-14     | C#, .NET e Banco de Dados                                   | [Twitter](https://twitter.com/Phsouzaesilva) [Instagram](https://www.instagram.com/)  [LinkedIn](https://www.linkedin.com/in/pedro-henrique-souza-e-silva-1aa51115a/)                                                    | [Clique Aqui](https://twitter.com/search?q=(from%3APhsouzaesilva)%20(%23100diasdecodigo)&src=typed_query&f=live)    |
+| Fernando Melo          | [Nandosts](https://github.com/Nandosts)                 | 2023-08-14     | Ruby, Java e Banco de Dados                                         | [Twitter](https://twitter.com/Sts_Nando) [LinkedIn](https://www.linkedin.com/in/fernando-sm)                                                                                    | [Clique Aqui](<https://twitter.com/search?q=(from%3ASts_Nando)%20(%23100diasdecodigo)&src=typed_query&f=live>)      |
 
 ## Participantes que completaram o desafio
 
