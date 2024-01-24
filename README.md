@@ -64,6 +64,8 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | Julio Cesar 'Settman'        | [jcsalerno](https://github.com/jcsalerno)               | 2023-08-16     | Full Stack, Python, JavaScript, DevOps                              | [Twitter](https://twitter.com/JulioSettman) [LinkedIn](https://www.linkedin.com/in/juliocesar-developer/)                                                                                                               | [Clique Aqui](https://twitter.com/JulioSettman/status/1691966742795293039)                                          |
 | Gustavo Pinheiro             | [pinheir0g](https://github.com/pinheir0g)               | 2023-08-15     | Python, Algoritmos, FastAPI, Testes, Docker                                  | [Twitter](https://twitter.com/pinheir0g_) [Linkedin](https://www.linkedin.com/in/gustavopinheiro-/) | [Clique Aqui](https://twitter.com/pinheir0g_)
 | Matheus Filgueiras             | [MatheusFilg](https://github.com/MatheusFilg)               | 2023-08-15     | Python, Javascript, React, Node, Docker, Postgres                                  | [Twitter](https://twitter.com/maguinnata) [Linkedin](https://www.linkedin.com/in/matheus-filgueiras-419700248/) | [Clique Aqui](https://twitter.com/Maguinnata/status/1691633276736139717?s=20)
+| Pedro Henrique 'GodOfCardio'             | [Phenrique-sousa](https://github.com/Phenrique-sousa)               | 2023-08-21     | Big Data, Cloud, AI, Python                                  | [Twitter](https://twitter.com/GodOfCardio77) [Linkedin](https://www.linkedin.com/in/pedro-henrique-dev-ifpb/) | [Clique Aqui](<https://twitter.com/search?q=(from:GodOfCardio77)+(%23100diasdecodigo)&src=typed_query&f=live>)
+
 
 ## Participantes que completaram o desafio
 
@@ -78,6 +80,7 @@ Lista de informações relevantes sobre os participantes que se comprometeram no
 | 07º     | Matheus Emanoel    | 14/08/2023     | 10/12/2023  | Full-Stack, JS/TS, React, Node         | Sim                 | [Twitter](https://twitter.com/OrionTH1) [Instagram](https://www.instagram.com/matheusemanoeloficial/) [LinkedIn](https://www.linkedin.com/in/matheusemanoeldev/)                                                    | [Clique Aqui](<https://twitter.com/search?q=(from:orionth1)+(%23100diasdecodigo)&src=typed_query&f=live>)                                      |
 | 08º     | Gustavo Pinheiro  | 15/08/2023 | 15/12/2023 | Back-end, Python, Testes, FastAPI | Sim | [Twitter](https://twitter.com/pinheir0g_) [Linkedin](https://www.linkedin.com/in/gustavopinheiro-/) | [Clique Aqui](https://twitter.com/pinheir0g_/status/1735791932599607572)
 | 09º     | Matheus Filgueiras  | 15/08/2023 | 30/12/2023 | Javascript, Node, React, Python | Sim | [Twitter](https://twitter.com/maguinnata) [Linkedin](https://www.linkedin.com/in/matheus-filgueiras-419700248/) | [Clique Aqui](https://twitter.com/Maguinnata/status/1741264367016948170?s=20)
+| 10º     | Pedro Henrique 'GodOfCardio  | 21/08/2023 | 24/01/2024 | Python, Java, BigData, AI | Sim | [Twitter](https://twitter.com/GodOfCardio77) [Linkedin](https://www.linkedin.com/in/pedro-henrique-dev-ifpb/) | [Clique Aqui](https://x.com/GodOfCardio77/status/1750168187482595429?s=20)
 ## Como Contribuir
 
 Para contribuir para esse repositório, siga os passos abaixo:
