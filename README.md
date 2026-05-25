@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Este repositório foi arquivado.** O desafio #100DiasDeCódigo agora é gerenciado pela nova plataforma:
+> **[he4rt/100DiasDeCodigo](https://github.com/he4rt/100DiasDeCodigo)**
+
+---
+
 # 100-dias-de-codigo
 
 Repositório oficial do desafio #100DiasDeCódigo, desafio PT-BR inspirado pelo #100DaysOfCode.
